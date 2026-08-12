@@ -27,9 +27,9 @@ Buchunde, S., & Tang, Y. Impact of Trip Characteristics on Passenger Departure T
 
 | Role | Members |
 |---|---|
-| **Scientific Team** | Yili Tang, Bingyu Zhao, Kenichi Soga, Xusong Zhou, Hai Yang, Surya Buchunde |
-| **Developer Team** | Bingyu Zhao, Yili Tang, Surya Buchunde, Hongyu Shen |
-| **Collaborating Team** | Stephen Wong, Mohamad Kahil |
+| **Scientific Team** | Yili Tang, Bingyu Zhao, Kenichi Soga, Xusong Zhou, Hai Yang|
+| **Developer Team** | Bingyu Zhao, Yili Tang, Hongyu Shen |
+| **Collaborating Team** | Stephen Wong, Mohamad Kahil, Surya Buchunde|
 
 ---
 
