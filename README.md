@@ -11,7 +11,13 @@
 
 **References**
 
-*Primary reference — framework and methodology*
+*Primary reference — framework and methodology* 
+For publication or research output that makes use of this software, please cite:
+
+   Zhao, B., Tang, Y., Soga, K., Zhou, X., & Yang, H. (2026). Dynamic passenger crowding
+   and operations in rail transit systems: a validated framework of integrated data-driven
+   agent-based simulation (AAAM). Journal of Rail Transport Planning & Management, 38,
+   100586. https://doi.org/10.1016/j.jrtpm.2026.100586
 
 Zhao, B., Tang, Y., Soga, K., Zhou, X., & Yang, H. (2026). Dynamic passenger crowding and operations in rail transit systems: a validated framework of integrated data-driven agent-based simulation (AAAM). *Journal of Rail Transport Planning & Management*, *38*, 100586. https://doi.org/10.1016/j.jrtpm.2026.100586
 
